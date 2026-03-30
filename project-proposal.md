@@ -10,7 +10,7 @@ The intended audience is serious DFS players, especially tournament players who 
 
 ## 2. Feature Plan
 
-### Project 01 (due Week 05)
+### Project 01
 
 1. **Homepage and project overview**  
    The site will include a homepage explaining what the simulator is, who it serves, and what users can do once they enter the application.
@@ -33,7 +33,7 @@ The intended audience is serious DFS players, especially tournament players who 
 7. **Responsive layout and navigation**  
    The site will be organized in a way where users can move between the simulator and analysis pages on desktop and mobile devices.
 
-### Project 02 (due Week 08)
+### Project 02
 
 1. **FanDuel support**  
    The application will expand beyond DraftKings and add FanDuel contest support with site specific roster and scoring considerations.
